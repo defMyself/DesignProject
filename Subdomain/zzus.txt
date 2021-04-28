@@ -1,0 +1,151 @@
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+[94m[-] Enumerating subdomains now for zzu.edu.cn[0m
+[92m[-] Searching now in Baidu..[0m
+[92m[-] Searching now in Yahoo..[0m
+[92m[-] Searching now in Google..[0m
+[92m[-] Searching now in Bing..[0m
+[92m[-] Searching now in Ask..[0m
+[92m[-] Searching now in Netcraft..[0m
+[92m[-] Searching now in DNSdumpster..[0m
+[92m[-] Searching now in Virustotal..[0m
+[92m[-] Searching now in ThreatCrowd..[0m
+[92m[-] Searching now in SSL Certificates..[0m
+[92m[-] Searching now in PassiveDNS..[0m
+[91m[!] Error: Virustotal probably now is blocking our requests[0m
+[93m[-] Total Unique Subdomains Found: 128[0m
+[92mwww.zzu.edu.cn[0m
+[92m2018nanobio.zzu.edu.cn[0m
+[92macc.zzu.edu.cn[0m
+[92macm.zzu.edu.cn[0m
+[92malumni.zzu.edu.cn[0m
+[92mao.zzu.edu.cn[0m
+[92maov.zzu.edu.cn[0m
+[92mapp.zzu.edu.cn[0m
+[92mapp2.zzu.edu.cn[0m
+[92mb5.zzu.edu.cn[0m
+[92mbadip.zzu.edu.cn[0m
+[92mbook.zzu.edu.cn[0m
+[92mbslt.zzu.edu.cn[0m
+[92mca.zzu.edu.cn[0m
+[92mcas.zzu.edu.cn[0m
+[92mcwp.zzu.edu.cn[0m
+[92mdayi.zzu.edu.cn[0m
+[92mdls.zzu.edu.cn[0m
+[92mdmail.zzu.edu.cn[0m
+[92mdns1a.zzu.edu.cn[0m
+[92mdns2.zzu.edu.cn[0m
+[92mdns2a.zzu.edu.cn[0m
+[92mdns3.zzu.edu.cn[0m
+[92mdns4.zzu.edu.cn[0m
+[92mdns5.zzu.edu.cn[0m
+[92mdns55.zzu.edu.cn[0m
+[92mdns9.zzu.edu.cn[0m
+[92mdongman.zzu.edu.cn[0m
+[92mebook.zzu.edu.cn[0m
+[92medf.zzu.edu.cn[0m
+[92meng.zzu.edu.cn[0m
+[92menglish.zzu.edu.cn[0m
+[92mfcc.zzu.edu.cn[0m
+[92mfcc2.zzu.edu.cn[0m
+[92mfcc3.zzu.edu.cn[0m
+[92mforum.zzu.edu.cn[0m
+[92mgmzd.zzu.edu.cn[0m
+[92mgo.zzu.edu.cn[0m
+[92mgoo.zzu.edu.cn[0m
+[92mgs.zzu.edu.cn[0m
+[92mgs2.zzu.edu.cn[0m
+[92mgsftp.zzu.edu.cn[0m
+[92mhg.zzu.edu.cn[0m
+[92mhouqin.zzu.edu.cn[0m
+[92mhqyy.zzu.edu.cn[0m
+[92mhxgc.zzu.edu.cn[0m
+[92mhxx.zzu.edu.cn[0m
+[92minfo.zzu.edu.cn[0m
+[92minfo5.zzu.edu.cn[0m
+[92minternational.zzu.edu.cn[0m
+[92mjc.zzu.edu.cn[0m
+[92mjksb.zzu.edu.cn[0m
+[92mjob.zzu.edu.cn[0m
+[92mjpkc.zzu.edu.cn[0m
+[92mjw.zzu.edu.cn[0m
+[92mkxdyk.zzu.edu.cn[0m
+[92mkyc.zzu.edu.cn[0m
+[92mlib.zzu.edu.cn[0m
+[92madmindoc.lib.zzu.edu.cn[0m
+[92mfile.lib.zzu.edu.cn[0m
+[92mwww.file.lib.zzu.edu.cn[0m
+[92mportal.lib.zzu.edu.cn[0m
+[92mlife.zzu.edu.cn[0m
+[92mlms.zzu.edu.cn[0m
+[92mlogin.zzu.edu.cn[0m
+[92mlogin6.zzu.edu.cn[0m
+[92mlsj.zzu.edu.cn[0m
+[92mmedia2.zzu.edu.cn[0m
+[92mmirrors.zzu.edu.cn[0m
+[92mmoe.zzu.edu.cn[0m
+[92mmrtg.zzu.edu.cn[0m
+[92mmtv.zzu.edu.cn[0m
+[92mmuseum.zzu.edu.cn[0m
+[92mmusic10.zzu.edu.cn[0m
+[92mmx.zzu.edu.cn[0m
+[92mnc.zzu.edu.cn[0m
+[92mnet.zzu.edu.cn[0m
+[92mnetlab.zzu.edu.cn[0m
+[92mnews.zzu.edu.cn[0m
+[92mnlp.zzu.edu.cn[0m
+[92mpage5.zzu.edu.cn[0m
+[92mpaobu.zzu.edu.cn[0m
+[92mpassport.zzu.edu.cn[0m
+[92mphoto.zzu.edu.cn[0m
+[92mpic.zzu.edu.cn[0m
+[92mprimo.zzu.edu.cn[0m
+[92mpub.zzu.edu.cn[0m
+[92mradio.zzu.edu.cn[0m
+[92ms.zzu.edu.cn[0m
+[92mscc.zzu.edu.cn[0m
+[92mservice.zzu.edu.cn[0m
+[92msodi.zzu.edu.cn[0m
+[92msoft2.zzu.edu.cn[0m
+[92msoftschool.zzu.edu.cn[0m
+[92msus.zzu.edu.cn[0m
+[92mszhq.zzu.edu.cn[0m
+[92mszhqgl.zzu.edu.cn[0m
+[92mtest5.zzu.edu.cn[0m
+[92mtime.zzu.edu.cn[0m
+[92mtv.zzu.edu.cn[0m
+[92mv.zzu.edu.cn[0m
+[92mlwdls.v.zzu.edu.cn[0m
+[92mvls3.zzu.edu.cn[0m
+[92mvls3a.zzu.edu.cn[0m
+[92mvls9.zzu.edu.cn[0m
+[92mvod.zzu.edu.cn[0m
+[92mvpn2.zzu.edu.cn[0m
+[92mweixin.zzu.edu.cn[0m
+[92mwww10.zzu.edu.cn[0m
+[92mwww12.zzu.edu.cn[0m
+[92mwww15.zzu.edu.cn[0m
+[92mwww16.zzu.edu.cn[0m
+[92mwww2.zzu.edu.cn[0m
+[92mwww3.zzu.edu.cn[0m
+[92mwww4.zzu.edu.cn[0m
+[92mwww5.zzu.edu.cn[0m
+[92mwww6.zzu.edu.cn[0m
+[92mwww7.zzu.edu.cn[0m
+[92mwww8.zzu.edu.cn[0m
+[92mxiaobao.zzu.edu.cn[0m
+[92mxm.zzu.edu.cn[0m
+[92mxwss3.zzu.edu.cn[0m
+[92mzb.zzu.edu.cn[0m
+[92mzhuoyue.zzu.edu.cn[0m
+[92mzsb.zzu.edu.cn[0m
+[92mzxh.zzu.edu.cn[0m
+[92mwww.zxh.zzu.edu.cn[0m
+[92mzzj.zzu.edu.cn[0m
